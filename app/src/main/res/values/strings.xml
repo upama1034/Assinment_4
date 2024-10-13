@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assinment_4</string>
+
+
+<string-array name="contactName">
+<item>John Doe</item>
+<item>Jane Smith</item>
+<item>Emily Johnson</item>
+<item>Michael Brown</item>
+<item>Linda Davis</item>
+<item>David Wilson</item>
+<item>Sarah Miller</item>
+<item>Chris Taylor</item>
+<item>Amanda Martinez</item>
+<item>Robert Anderson</item>
+<item>Jessica Thomas</item>
+</string-array>
+</resources>
